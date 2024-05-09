@@ -1,1 +1,4 @@
-# DB_Library-
+# Contributors:
+- Gaetano Romeo
+- Lorenzo Arcopinto
+- Giovanni Picardi
